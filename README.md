@@ -15,6 +15,15 @@ clustering on the UK Online Retail dataset.
 - K-Means Clustering (4 clusters)
 - Elbow Method + Silhouette Score
 
+  ## 📁 Dataset
+This project uses the UK Online Retail Dataset.
+
+Download it from:
+- [Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+
+After downloading, rename the file to `data.csv` 
+and place it in the same folder as the notebook.
+
 ## 🔍 Key Findings
 - Identified 4 customer segments
 - Silhouette Score: 0.40
